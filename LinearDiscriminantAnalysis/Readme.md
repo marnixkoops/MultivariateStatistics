@@ -233,12 +233,7 @@ model is extended with more data to draw more substantive and reliable
 conclusions on the relation between demographic profiles of households
 and their magazine subscription.
 
-<img src="Github_LinearDiscriminantAnalysis_files/figure-markdown_github/unnamed-chunk-5-1.pdf" alt="Biplot of LD1 against LD2 of the small model. Large points indicate the group means where BH\&amp;G denotes Better Home \&amp; Gardens, RD is Readers Digest, TV-G is TV-Guide and NW is Newsweek."  />
-<p class="caption">
-Biplot of LD1 against LD2 of the small model. Large points indicate the
-group means where BH&G denotes Better Home & Gardens, RD is Readers
-Digest, TV-G is TV-Guide and NW is Newsweek.
-</p>
+![Biplot of LD1 against LD2 of the small model. Large points indicate the group means where BH&G denotes Better Home & Gardens, RD is Readers Digest, TV-G is TV-Guide and NW is Newsweek.](Github_LinearDiscriminantAnalysis_files/figure-markdown_github/unnamed-chunk-5-1.pdf)
 
 **APPENDIX**
 
@@ -254,13 +249,9 @@ classes are black numbers and misclassified ones are red. As expected,
 the results are comparable in terms of partitioning and error. No
 further interpration is done here.
 
-![Partition plot of LDA on selected variables. Correct classes are black
-numbers and misclassified ones are
-red](Github_LinearDiscriminantAnalysis_files/figure-markdown_github/unnamed-chunk-6-1.pdf)
+![Partition plot of LDA on selected variables. Correct classes are black numbers and misclassified ones are red](Github_LinearDiscriminantAnalysis_files/figure-markdown_github/unnamed-chunk-6-1.pdf)
 
-![Partition plot of QDA on selected variables. Correct classes are black
-numbers and misclassified ones are
-red](Github_LinearDiscriminantAnalysis_files/figure-markdown_github/unnamed-chunk-7-1.pdf)
+![Partition plot of QDA on selected variables. Correct classes are black numbers and misclassified ones are red](Github_LinearDiscriminantAnalysis_files/figure-markdown_github/unnamed-chunk-7-1.pdf)
 
 **B: Code**
 
